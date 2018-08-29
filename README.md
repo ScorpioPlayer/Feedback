@@ -20,8 +20,6 @@ You can help [translate](https://github.com/ScorpioPlayer/Localization) Scorpio 
 
 ## Contact
 
-
-## Contact
 [![](https://img.shields.io/badge/Twitter-@scorpio_support-1da1f2.svg)](https://twitter.com/scorpio_support)
 
 [![](https://img.shields.io/badge/微博-@scorpio_player-eb192d.svg)](https://weibo.com/scorpio_player)
