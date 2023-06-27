@@ -6,7 +6,7 @@
 ## [Scorpio Media Server v6](http://scorpioplayer.com) 
 [![version](https://img.shields.io/badge/v6.0.0-green.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-media-server-for-scorpio-player/9NM0XQKK5GMJ?hl=en-nz&gl=nz&rtc=1)  [![MacOS](https://img.shields.io/badge/Apple-MacOS-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-mac&app=scorpioplayer.com&type=doc) [![x64](https://img.shields.io/badge/Windows-x64-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-for-win10&app=scorpioplayer.com&type=doc)
 
->Scorpio Media Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high >quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room >Xbox Console, or Download your Media out side home to your mobile phone. checkout http://scorpioplayer.com/Docs to learn more!
+>Scorpio Media Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high >quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room >Xbox Console, or Download your Media out side home to your mobile phone. checkout [https://blog.scorpioplayer.com](https://blog.scorpioplayer.com) to learn more!
 
 
 ## Feedback
