@@ -13,7 +13,6 @@ SCORPIO PLAYER is a universal media player for Windows 10/11/Xbox that offers yo
 - Inking feature to draw on your video image
 - Single or multiple window operation
 - True UWP application design
-- SCORPIO PLAYER is the ultimate media player for Windows 10/11 and XBOX. Try it now!
   
 SCORPIO PLAYER is the ultimate media player for Windows 10/11 and XBOX. Try it now!
 
