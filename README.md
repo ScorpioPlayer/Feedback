@@ -4,6 +4,7 @@
 SCORPIO PLAYER is a universal media player for Windows 10/11/Xbox that offers you:
 
 - Smooth video playback with fast hardware decoding for HEVC/H265/10bit 4K
+- Generate and customize subtitles for any video or audio with OpenAI Whiper.
 - Immersive VR video experience with Windows Mixed Reality Headset Device
 - Interactive Movie mode to control playback rate from 0.5X to 4X
 - Subtitle synchronization, effects and search features
