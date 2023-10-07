@@ -1,4 +1,4 @@
-# [Scorpio Player](http://scorpioplayer.com) [![version](https://img.shields.io/badge/v2.10.1151.0-2023.07.26-purple.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-player-x/9NGHPCSC5XTV?hl=en-us&gl=us)  [![iOS](https://img.shields.io/badge/Apple-iOS-0078d7.svg)](https://apps.apple.com/us/app/id1617922279?platform=iphone) [![Build status](https://dev.azure.com/bosxixi/TPlayer/_apis/build/status/scorpio-player)](https://dev.azure.com/bosxixi/TPlayer/_build/latest?definitionId=41)
+# [Scorpio Player](http://scorpioplayer.com) [![version](https://img.shields.io/badge/v2.10.1188.0-2023.10.07-purple.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-player-x/9NGHPCSC5XTV?hl=en-us&gl=us)  [![iOS](https://img.shields.io/badge/Apple-iOS-0078d7.svg)](https://apps.apple.com/us/app/id1617922279?platform=iphone) [![Build status](https://dev.azure.com/scorpioplayer/Releases/_apis/build/status/scorpio-player-x)](https://dev.azure.com/scorpioplayer/Releases/_build/latest?definitionId=38)
 
 
 SCORPIO PLAYER is a universal media player for Windows 10/11/Xbox that offers you:
@@ -16,6 +16,10 @@ SCORPIO PLAYER is a universal media player for Windows 10/11/Xbox that offers yo
 - True UWP application design
   
 SCORPIO PLAYER is the ultimate media player for Windows 10/11 and XBOX. Try it now!
+
+### Xbox One/Series ![xbox logo](https://flyinghead.github.io/flycast-builds/xbox.png) [![Build status](https://dev.azure.com/scorpioplayer/Releases/_apis/build/status/scorpio-player-xbox-series)](https://dev.azure.com/scorpioplayer/Releases/_build/latest?definitionId=84)
+
+Grab the latest build from [**the builds page**](https://fs.scorpioplayer.com/dl/apps/sideload/), or the [**downloads**](https://scorpioplayer.com/download). Then install it using the **Xbox Device Portal**.
 
 ## [Scorpio Media Server v6](http://scorpioplayer.com) 
 [![version](https://img.shields.io/badge/v6.0.0-green.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-media-server-for-scorpio-player/9NM0XQKK5GMJ?hl=en-nz&gl=nz&rtc=1)  [![MacOS](https://img.shields.io/badge/Apple-MacOS-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-mac&app=scorpioplayer.com&type=doc) [![x64](https://img.shields.io/badge/Windows-x64-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-for-win10&app=scorpioplayer.com&type=doc) [![x64](https://img.shields.io/badge/Docker-Hub-1078d7.svg)](https://hub.docker.com/r/scorpiox/scorpiomediaserver)
