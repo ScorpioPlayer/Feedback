@@ -1,31 +1,42 @@
-# [Scorpio Player](http://scorpioplayer.com) [![version](https://img.shields.io/badge/v2.10.1188.0-2023.10.07-purple.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-player-x/9NGHPCSC5XTV?hl=en-us&gl=us)  [![iOS](https://img.shields.io/badge/Apple-iOS-0078d7.svg)](https://apps.apple.com/us/app/id1617922279?platform=iphone) [![Build status](https://dev.azure.com/scorpioplayer/Releases/_apis/build/status/scorpio-player-x)](https://dev.azure.com/scorpioplayer/Releases/_build/latest?definitionId=38)
+# [SCORPIO PLAYER 2025](http://scorpioplayer.com) 
 
+#### Description
 
-SCORPIO PLAYER is a universal media player for Windows 10/11/Xbox that offers you:
+Scorpio Player is the ultimate modern video player app for your iPhone, iPad, Mac, and Apple Silicon devices.
 
-- Smooth video playback with fast hardware decoding for HEVC/H265/10bit 4K
-- Generate and customize subtitles for any video or audio with OpenAI Whiper.
-- Immersive VR video experience with Windows Mixed Reality Headset Device
-- Interactive Movie mode to control playback rate from 0.5X to 4X
-- Subtitle synchronization, effects and search features
-- Video graphic customization with 360°, effects, contrast, coloring and face detection
-- Audio enhancement with equalizer, boost and visualization
-- Media content management with favorites, playlist, bookmarking, chapters and podcast features
-- Inking feature to draw on your video image
-- Single or multiple window operation
-- True UWP application design
-  
-SCORPIO PLAYER is the ultimate media player for Windows 10/11 and XBOX. Try it now!
+Windows 10/11 PC, Xbox Series S/X, Android Phone, Android TV/Fire TV. It lets you play any video, audio, image, or playlist file with ease and convenience.
+
+#### Native Video Player
+
+Experience the best video playback quality with native video player and its powerful decoding engine. You can also control the playback speed, resume playback, and enable hardware acceleration.
+
+#### Features
+
+* **Plays Everything from Anywhere**: Access your favorite content from various sources, such as debrid services, Scorpio Player server, web servers, cloud services, indexers, and more. From Files to OneDrive, OneDrive for Business, DropBox, SAMBA/CIFS, SFTP/SSH/WebDAV, and specially Scorpio Media Server for high performance lossless streaming, from your home Windows PC, Docker server to mobile device.
+* **SCORPIO+ Service**: Discover movies and TV shows with metadata, watch trailers, add to your Watchlist, view trending and popular titles, and more. You can also search movies and TV shows and open IMDb, Rotten Tomatoes, and Metacritic websites with one tap.
+* **SCORPIO+ User Account**: Create multiple profiles to have separate browse history and continue watching where you left off from your last session.
+* **SCORPIO+ Sync**: Syncs with your account to configure favorite media collection settings specific to your account, syncs your playback progress across your devices, and syncs your watchlists across your devices.
+* **AI Subtitle Generation and Transcription**: Use AI to generate and transcribe subtitles.
+* **Subtitle Search and Download**: Search for and download subtitles within the app for your video content.
+* **Live Translation**: Available for foreign language subtitles.
+* **Built-in Web Browser Transfer Server**: Transfer files from your Mac/PC/Devices by using Browser to your device with a simple tap.
+* **Debrid Services Support**: Stream content from your own account from Real-debrid, All-debrid, Premiumize.me, and other debrid services.
+* **Media Server Support**: Connect to your own Scorpio Media Server to access your media library anytime, anywhere. Now also compatible with Jellyfin Media Server and Emby Media Server.
+* **Web Servers Support**: Stream content from your own WebDAV, SFTP, FTP, NFS, SMB/CIFS, SMB2, IPTV m3u Playlist, Dropbox, OneDrive, OneDrive for Business, ASP.NET File Server, and more.
+* **Download Client Support**: Link to download client aria2, Synology Download Station, and other download clients to enqueue your next download task.
+* **Indexers Integration with SCORPIO+**: Browse and search content from Jackett API, Sonarr API, Radarr API, and other indexers.
+* **Dark and Light Theme**: Choose between dark and light themes to suit your preference and device settings.
+* **Multiple Languages Support**: Enjoy Scorpio Player in English, Spanish, French, German, Japanese, Chinese, and more languages.
+* **Supported Formats**: mp4, mkv, mp3, avi, rmvb, flac, webm, opus, wav, m2ts, flv, mpg, m3u, mov, vob, mpeg, wma, f4v, rm, H264, H265, HEVC, VP9, AV1, and other mainstream formats and codecs.
+* **Supported Subtitles Formats**: srt, ssa, ass, sup, lrc, smi, MicroDVD, SubRip, Substationalpha, SubViewer, ttml, WEBVTT, Youtube specific XML format, HDMV PGS Image Subtitle, and other mainstream formats. And Lyrics!
+
+Scorpio Player is the ultimate media player app for your Apple devices. Download it today and enjoy your media like never before.
+
+#### "BEST effects EVER
 
 ### Xbox One/Series ![xbox logo](https://flyinghead.github.io/flycast-builds/xbox.png) [![Build status](https://dev.azure.com/scorpioplayer/Releases/_apis/build/status/scorpio-player-xbox-series)](https://dev.azure.com/scorpioplayer/Releases/_build/latest?definitionId=84)
 
 Grab the latest build from [**the builds page**](https://fs.scorpioplayer.com/dl/apps/sideload/), or the [**downloads**](https://scorpioplayer.com/download). Then install it using the **Xbox Device Portal**.
-
-## [Scorpio Media Server v6](http://scorpioplayer.com) 
-[![version](https://img.shields.io/badge/v6.0.0-green.svg)](https://github.com/ScorpioPlayer/Feedback/issues) [![Windows](https://img.shields.io/badge/Microsoft-Store-0078d7.svg)](https://apps.microsoft.com/store/detail/scorpio-media-server-for-scorpio-player/9NM0XQKK5GMJ?hl=en-nz&gl=nz&rtc=1)  [![MacOS](https://img.shields.io/badge/Apple-MacOS-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-mac&app=scorpioplayer.com&type=doc) [![x64](https://img.shields.io/badge/Windows-x64-0078d7.svg)](https://forward.scorpioplayer.com/to?link=scorpio-media-server-for-win10&app=scorpioplayer.com&type=doc) [![x64](https://img.shields.io/badge/Docker-Hub-1078d7.svg)](https://hub.docker.com/r/scorpiox/scorpiomediaserver)
-
->Scorpio Media Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high >quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room >Xbox Console, or Download your Media out side home to your mobile phone. checkout [https://blog.scorpioplayer.com](https://blog.scorpioplayer.com) to learn more!
-
 
 ## Feedback
 
