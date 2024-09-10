@@ -1,16 +1,14 @@
 # [SCORPIO PLAYER 2025](http://scorpioplayer.com) 
 
-#### Description
-
 Scorpio Player is the ultimate modern video player app for your iPhone, iPad, Mac, and Apple Silicon devices.
 
 Windows 10/11 PC, Xbox Series S/X, Android Phone, Android TV/Fire TV. It lets you play any video, audio, image, or playlist file with ease and convenience.
 
-#### Native Video Player
+### Native Video Player
 
 Experience the best video playback quality with native video player and its powerful decoding engine. You can also control the playback speed, resume playback, and enable hardware acceleration.
 
-#### Features
+### Features
 
 * **Plays Everything from Anywhere**: Access your favorite content from various sources, such as debrid services, Scorpio Player server, web servers, cloud services, indexers, and more. From Files to OneDrive, OneDrive for Business, DropBox, SAMBA/CIFS, SFTP/SSH/WebDAV, and specially Scorpio Media Server for high performance lossless streaming, from your home Windows PC, Docker server to mobile device.
 * **SCORPIO+ Service**: Discover movies and TV shows with metadata, watch trailers, add to your Watchlist, view trending and popular titles, and more. You can also search movies and TV shows and open IMDb, Rotten Tomatoes, and Metacritic websites with one tap.
